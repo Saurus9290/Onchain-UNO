@@ -15,11 +15,6 @@ export const exploreWorlds = [
     title: 'Security',
   },
   {
-    id: 'world-4',
-    imgUrl: '/homePage/zk.jpg',
-    title: 'zk Powered',
-  },
-  {
     id: 'world-5',
     imgUrl: '/homePage/user-friendly.jpg',
     title: 'User-Friendly UI',

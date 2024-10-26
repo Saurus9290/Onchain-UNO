@@ -50,7 +50,7 @@ export default function Explore() {
               handleClick={setActive}
             />
           ))}
-        // </div>
+         </div>
       </motion.div>
     </section>
   );
