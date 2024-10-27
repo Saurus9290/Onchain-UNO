@@ -2,6 +2,8 @@
 
 OnChain UNO is a cutting-edge, multiplayer digital adaptation of the classic UNO game, now enhanced with privacy, fairness, and security in every game. Whether you're a casual player or a competitive strategist, OnChain UNO offers a revolutionary gaming experience that combines the fun of UNO with the power of Base blockchain technology.
 
+[Watch the demo video](https://drive.google.com/file/d/1pES3BGv6sQ4gZic7OAUkR6iCkUQGUwG1/view?usp=sharing)
+
 ## Features
 
 - **Privacy**: Play with confidence, knowing that your moves and data are secure and private.
